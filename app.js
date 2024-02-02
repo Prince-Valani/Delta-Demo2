@@ -1,0 +1,1 @@
+console.log("This is javasript file for index.html");
